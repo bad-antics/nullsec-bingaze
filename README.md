@@ -1,6 +1,6 @@
 # NullSec BinGaze
 
-**Hardened Binary Analysis Toolkit**
+**Secure Binary Analysis Toolkit**
 
 A security-focused ELF binary analyzer written in modern C++20 with defense-in-depth principles.
 
@@ -55,7 +55,7 @@ make
 - ✓ Stack Canary Detection
 - ✓ RWX Segment Detection
 
-## Compiler Hardening
+## Compiler Security
 
 Built with:
 - `-fstack-protector-strong`

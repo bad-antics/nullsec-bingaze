@@ -17,7 +17,7 @@ A security-focused ELF binary analyzer written in modern C++20 with defense-in-d
 - RAII resource management with `SecureBuffer`
 - Secure memory zeroing to prevent data leakage
 - Input validation on all operations
-- Compiled with maximum hardening flags
+- Compiled with battle-tested security flags
 
 ## Build
 
